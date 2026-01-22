@@ -1,0 +1,50 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;  
+}
+
+header {
+  background-color: darkolivegreen;
+  padding: 50px;
+}
+
+h1 {
+  color: white;
+  padding-top: 5px;
+  border-top: white 2px solid;
+}
+
+.container {
+  /* Write your grid container css here */
+
+}
+
+nav {
+  background-color: #f0f0f0;
+  /* You may need to add some additional css to this grid item */
+
+}
+
+nav li {
+  font-size: 0.8em;
+}
+
+nav li:hover {
+  text-decoration: underline;  
+}
+
+h2 {
+  font-size: 1.2em;
+  margin: 5px 0px 5px 0px;
+}
+
+article p {
+  margin-top: 5px;
+} 
+
+article {
+    margin: 10px;
+}
+
+img {
+  width: 150px;
+}

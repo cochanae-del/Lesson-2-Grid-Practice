@@ -1,0 +1,1 @@
+A grid container div has already been provided for you! Look out for the div with class `container`. The first step we'll need to do is to set the display property on this div.

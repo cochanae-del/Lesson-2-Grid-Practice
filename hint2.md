@@ -1,0 +1,3 @@
+Once we've assigned the display property to grid on our container, we still need to tell our container what row and column template we want. To do this we can use the properties `grid-template-columns` and `grid-template-rows`.
+
+Remember, grid introduces a new unit called a fraction (fr). We find that one particularly useful when we want each column or each row to have equal size, and to scale up and down appropriately according to our screen size. 

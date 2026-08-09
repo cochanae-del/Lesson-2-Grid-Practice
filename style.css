@@ -16,7 +16,7 @@ h1 {
 
 .container {
   display: grid;
-  flex-direction: row;
+  grid-templates-rows: 1fr 1fr;
   justify-content: space-around;
 }
 

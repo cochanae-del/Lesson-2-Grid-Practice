@@ -4,21 +4,20 @@ body {
 
 header {
   background-color: darkolivegreen;
-  padding: 50px 50px 50px 50px;
+  padding: 50px;
 }
 
 h1 {
   color: white;
   padding-top: 5px;
-  border-top: white 3px solid;
+  border-top: white 2px solid;
   font-size: 50px
 }
 
 .container {
   display: flex;
   flex-direction: row;
-  
-
+  justify-content: space-between;
 }
 
 nav {

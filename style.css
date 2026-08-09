@@ -14,7 +14,9 @@ h1 {
 }
 
 .container {
-  /* Write your grid container css here */
+  display: flex;
+  flex-direction: row;
+  
 
 }
 

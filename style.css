@@ -16,7 +16,7 @@ h1 {
 
 .container {
   display: grid;
-  grid-templates-rows: 1fr 1fr;
+  grid-templates-rows: auto;
   justify-content: space-around;
 }
 

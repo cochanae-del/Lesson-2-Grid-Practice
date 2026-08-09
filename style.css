@@ -16,7 +16,8 @@ h1 {
 
 .container {
   display: flex;
-  grid-templates-columns: auto;
+  flex-grow: 10%;
+  flex-direction: row;
   justify-content: space-around;
 }
 
